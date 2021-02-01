@@ -3,13 +3,13 @@
 Python project to simulate a race game between 6 different coloured turtles.
 
 The turtles are basically 
-# Turtle graphics 
+## Turtle graphics 
 figurines, each instance of Turtle() representing 1 turtle contestant in the race.
 
 The user gets to bid on any of the coloured turtle, and then the race starts.
 
 Using 
-# random 
+## random 
 forward pace distances, all 6 turtles move forward, and 1 of them finishes the game early.
 
 The user now gets a message in the console, telling if he won/lose, and also the winner of the race.
